@@ -1,5 +1,3 @@
-package gr.uth.inf.ce325.xml_parser;
-
 import java.util.*;
 import java.lang.*;
 
